@@ -63,7 +63,7 @@ Currency Code	Currency	Symbol	Country/Region
 ```cd Steam-cs2-market-sniper-selenium-python```
 
 ## Dependencies
-Selenium, PyYAML, Requests, chromedriver-autoinstaller
+Selenium, PyYAML, Requests, chromedriver-autoinstaller, webdriver-manager, pyyaml, html5lib, beautifulsoup4, fake-useragent, fake-headers
 
 ```
 pip install -r /path/to/requirements.txt

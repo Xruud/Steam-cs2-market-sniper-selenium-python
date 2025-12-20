@@ -47,11 +47,11 @@ Currency Code	Currency	Symbol	Country/Region
 
 
 ## THIS IS A PROJECT MADE BY AI
-AI wrote all of the scripts
-It will have a lot of spaghetti and jargon code
-Some functions of it may not work/ or work only with some timing settings (I can't figure code out) (for example pages_to_check is weird and doesnt work mostoften)
-(Also i can't figure out how .gitignore works so AI also made that for me)
-Any upgrades to the are welcome, since I have abandoned this project (hence why I'm uploading it) 
+- AI wrote all of the scripts
+- **It will have a lot of spaghetti and jargon code**
+- **Some functions of it may not work**/ or work only with some timing settings (I can't figure code out) (for example pages_to_check is weird and doesnt work mostoften)
+- **I can't figure out how .gitignore works so AI also made that for me**
+- **Any upgrades to the are welcome**, since I have abandoned this project (hence why I'm uploading it) 
 
 ## ⚙️ Prerequisites
 
@@ -71,4 +71,5 @@ pip install -r /path/to/requirements.txt
 ***
 
 ## First Run
-Run Chromeprofilecreation.py, sign in to steam and download both Csfloat and Steam Invetntory Helper extensions on all 5 profiles
+- Run Chromeprofilecreation.py, sign in to steam and download both Csfloat and Steam Invetntory Helper extensions on all 5 profiles
+- Afterwards run any of the 3 scripts

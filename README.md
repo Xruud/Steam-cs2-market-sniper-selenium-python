@@ -8,9 +8,9 @@ A collection of Python scripts demonstrating browser automation techniques for m
 
 ### Scripts Included:
 
-1. **`Steamscriptwithoutapirandom`** - Not using any api requests whatsoever, only opening and sniping for skins at random interval
-2. **`Steamsniperusingurlapi`** - Using a Chrome Window always which is always open from where script exctact sell order count through the itemorderhistogram. When sell orders change a window opens using a random chromeprofile (the ones you create at start) and search and snipe skins.
-3. **`Steamsniperusingregapi`** - Using requests from python to exctract sell order. When sell orders change a window opens using a random chromeprofile (the ones you create at start) and search and snipe skins (IMPORTANT:also modify https://steamcommunity.com/market/itemordershistogram?country=UK&language=english&currency=3&item_nameid={item_nameid} on config through Ctrl+F to correct currency and country type)
+1. **`Steamscriptwithoutapirandom`** - Not using any api requests whatsoever, only opening and sniping for skins at random intervals
+2. **`Steamsniperusingurlapi`** - Using a Chrome Window which is always open from where script exctact sell order count through the itemorderhistogram. When sell orders change a window opens using a random chromeprofile (the ones you create at start) and search and snipe skins.
+3. **`Steamsniperusingregapi`** - Using requests from python to exctract sell orders. When sell orders change a window opens using a random chromeprofile (the ones you create at start) and search and snipe skins (IMPORTANT:also modify https://steamcommunity.com/market/itemordershistogram?country=UK&language=english&currency=3&item_nameid={item_nameid} on config through Ctrl+F to correct currency and country type)
 Currency Code	Currency	Symbol	Country/Region
 
 1	USD ($)

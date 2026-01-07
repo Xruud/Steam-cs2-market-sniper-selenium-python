@@ -72,4 +72,5 @@ pip install -r /path/to/requirements.txt
 
 ## First Run
 - Run Chromeprofilecreation.py, sign in to steam and download both Csfloat and Steam Invetntory Helper extensions on all 5 profiles
+ On Steam Invetntory Helper set the settings to 100 listings per page and enable the quick buy button on all 5 profiles
 - Afterwards run any of the 3 scripts
